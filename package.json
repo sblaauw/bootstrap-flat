@@ -1,0 +1,19 @@
+{
+  "name": "bootstrap-flat",
+  "version": "3.3.4",
+  "description": "A simple flat theme for Twitter Bootstrap 3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sblaauw/bootstrap-flat.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sblaauw/bootstrap-flat/issues"
+  },
+  "homepage": "https://github.com/sblaauw/bootstrap-flat#readme"
+}
